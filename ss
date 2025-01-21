@@ -246,6 +246,8 @@ else if (window.attachEvent){
 <span style="font-size:20px;">Darqnightgece
 
 +===========================================+
+Türk Milleti yeni bir iman ve kesin bir milli azim ile yeni bir devlet kurmuştur bu devletin dayandığı esaslar "Tam Bağımsızlık" ve "Kayıtsız Şartsız Milli Egemenlikten ibarettir.
+ Yeni Türkiye devletinin yapısının ruhu Milli Egemenliktir. Milletin Kayıtsız Şartsız Egemenliğidir...
 </span>
 </p>
 </pre>
